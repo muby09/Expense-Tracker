@@ -15,7 +15,7 @@ A simple and intuitive web application for tracking personal income and expenses
 ## Screenshot
 
 
-<img width="703" height="923" alt="image" src="https://github.com/user-attachments/assets/60cfe0a4-2ef6-4173-90a5-0a6928fa3ea6" />
+<img width="723" height="930" alt="image" src="https://github.com/user-attachments/assets/8da78d69-5b3a-4a42-a305-751050015b73" />
 
 
 ## Technologies Used
